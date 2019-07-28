@@ -1,0 +1,28 @@
+{
+  "title": {
+    "message": "Edytor audio online Audacity z telegramem" 
+  },
+  "description": {
+    "message": "Edytor audio online do edycji dźwięku, usuwania szumu, wycinania i łączenia klipów oraz stosowania efektów dźwiękowych"
+  },
+  "new_png": {
+    "message": "Nowy dźwięk"
+  },
+  "new_files": {
+    "message": "Menedżer plików"
+  },
+  "new_usersettings": {
+    "message": "Ustaw ID użytkownika i hasło"
+  },
+  "new_tel": {
+    "message": "Telegram"
+  }
+}
+
+
+
+
+
+
+
+

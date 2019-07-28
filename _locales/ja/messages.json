@@ -1,0 +1,31 @@
+{
+  "title": {
+    "message": "オーディオエディタオンラインAudacity with Telegram" 
+  },
+  "description": {
+    "message": "オーディオを編集したり、ノイズを除去したり、クリップをカット/結合したり、オーディオエフェクトを適用するためのオンラインのオーディオエディタ"
+  },
+  "new_png": {
+    "message": "新しいオーディオ"
+  },
+  "new_files": {
+    "message": "ファイルマネージャー"
+  },
+  "new_usersettings": {
+    "message": "ユーザーIDとパスワードを設定する"
+  },
+  "new_tel": {
+    "message": "Telegram"
+  }
+}
+
+
+
+
+
+
+
+
+
+
+

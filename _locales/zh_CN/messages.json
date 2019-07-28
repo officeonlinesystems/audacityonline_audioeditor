@@ -1,0 +1,25 @@
+{
+  "title": {
+    "message": "音频编辑器在线与电报Audacity" 
+  },
+  "description": {
+    "message": "音频编辑器在线编辑音频，消除噪音，剪切和合并剪辑，以及应用音频效果"
+  },
+  "new_png": {
+    "message": "新的音频"
+  },
+  "new_files": {
+    "message": "文件管理器"
+  },
+  "new_usersettings": {
+    "message": "设置用户ID和密码"
+  },
+  "new_tel": {
+    "message": "Telegram"
+  }
+}
+
+
+
+
+

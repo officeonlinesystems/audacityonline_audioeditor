@@ -1,0 +1,26 @@
+{
+  "title": {
+    "message": "Audio editor online Audacity con Telegram" 
+  },
+  "description": {
+    "message": "Editor audio online per modificare l'audio, rimuovere il rumore, tagliare e combinare clip e applicare effetti audio"
+  },
+  "new_png": {
+    "message": "Nuovo audio"
+  },
+  "new_files": {
+    "message": "File manager"
+  },
+  "new_usersettings": {
+    "message": "Imposta ID utente e password"
+  },
+  "new_tel": {
+    "message": "Telegram"
+  }
+}
+
+
+
+
+
+
